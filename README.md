@@ -14,7 +14,7 @@ Deze DoD beschrijft waar iedere oefening/workshop aan moet voldoen.
 * Maakt gebruik van jUnit5
 
 ### Code
-
+* Gebruikt type-inferene via het var-keyword
 
 ### Readme
 * Is in het Nederlands
