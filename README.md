@@ -1,11 +1,11 @@
 # HANICA-DEA.github.io
-Organization page of HAN_ICA-DEA
+Organization page of HAN OOSE-DEA
 
 ## Definition of Done (DoD))
 Deze DoD beschrijft waar iedere oefening/workshop aan moet voldoen.
 
 ### POM
-* Minimaal Java versie 12
+* Minimaal Java versie 17
 * Bevat een <url> element dat verwijst naar de Repository
 
 ### Unittests
@@ -14,7 +14,7 @@ Deze DoD beschrijft waar iedere oefening/workshop aan moet voldoen.
 * Maakt gebruik van jUnit5
 
 ### Code
-* Gebruikt type-inferene via het var-keyword
+* Gebruikt type-inference via het var-keyword
 
 ### Readme
 * Is in het Nederlands
